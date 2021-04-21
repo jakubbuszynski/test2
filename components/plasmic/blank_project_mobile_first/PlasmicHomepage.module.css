@@ -13,3 +13,9 @@
   font-size: 32px;
   padding: 32px;
 }
+.button {
+  position: relative;
+  align-self: flex-end;
+  transition-property: all;
+  transition-duration: 1s;
+}

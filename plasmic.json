@@ -38,6 +38,19 @@
           "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicHomepage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "Sr3h47G2P3",
+          "name": "Wycieczki",
+          "type": "managed",
+          "projectId": "ruqtmR7xJLFyvce3Fq2SGS",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicWycieczki.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicWycieczki.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [],
